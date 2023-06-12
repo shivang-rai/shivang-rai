@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shivang-rai
 - 👀 I’m interested in Desgining, F1
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on UI/UX design
 
 <!---
